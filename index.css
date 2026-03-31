@@ -1,0 +1,49 @@
+.thank{
+    display: inline-flex;
+
+}
+
+#a-background1{
+    background-color: blue;
+    color: white;
+    border: solid 1px blue;
+    border-radius: 10px;
+    text-decoration: none;
+    height: 40px;
+    width: 100pz;
+}
+
+#a-background1 a{
+    color: white;
+    text-decoration: none;    
+}
+
+#a-background2{
+    background-color: blue;
+    color: white;
+    border: solid 1px blue;
+    border-radius: 10px;
+    text-decoration: none;
+    height: 40px;
+    width: 100pz;
+}
+
+#a-background2 a{
+    color: white;
+    text-decoration: none;    
+}
+
+#a-background3{
+    background-color: blue;
+    color: white;
+    border: solid 1px blue;
+    border-radius: 10px;
+    text-decoration: none;
+    height: 40px;
+    width: 100pz;
+}
+
+#a-background3 a{
+    color: white;
+    text-decoration: none;    
+}

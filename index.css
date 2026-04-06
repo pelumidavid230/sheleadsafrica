@@ -1,9 +1,9 @@
-.thank{
+.thank {
     display: inline-flex;
 
 }
 
-#a-background1{
+#a-background1 {
     background-color: blue;
     color: white;
     border: solid 1px blue;
@@ -13,12 +13,12 @@
     width: 100pz;
 }
 
-#a-background1 a{
+#a-background1 a {
     color: white;
-    text-decoration: none;    
+    text-decoration: none;
 }
 
-#a-background2{
+#a-background2 {
     background-color: blue;
     color: white;
     border: solid 1px blue;
@@ -28,12 +28,12 @@
     width: 100pz;
 }
 
-#a-background2 a{
+#a-background2 a {
     color: white;
-    text-decoration: none;    
+    text-decoration: none;
 }
 
-#a-background3{
+#a-background3 {
     background-color: blue;
     color: white;
     border: solid 1px blue;
@@ -43,17 +43,18 @@
     width: 100pz;
 }
 
-#a-background3 a{
+#a-background3 a {
     color: white;
-    text-decoration: none;    
+    text-decoration: none;
 }
+
 /* grid */
 
-#firstgrid{
+#firstgrid {
     padding: 60px 50px 60px 70px;
 }
 
-#gridbutton{
+#gridbutton {
     width: 220px;
     height: 40px;
     border-radius: 50px;
@@ -61,24 +62,40 @@
     background-color: white;
 }
 
-#gridheading{
+#gridheading {
     font-size: 60px;
     font-weight: 700;
 }
 
 /* flex */
 
-#download{
+#download {
     background-color: blue;
     color: white;
     margin: 5px 40px;
     border: solid 0px blue;
     border-radius: 5px;
     width: 400px;
-    height: 80px;    
+    height: 80px;
 }
-#download a{
+
+#download a {
     color: white;
     text-decoration: none;
 }
-    
+
+/* HERO SECCTION 1 */
+.card-title {
+    color: white;
+    margin-top: 350px;
+    font-size: 45px;
+    padding-left: 100px;
+}
+
+.card-img {
+    object-fit: cover;
+    height: 470px;
+}
+
+/* HERO SECTION 2 */
+
